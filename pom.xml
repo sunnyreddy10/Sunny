@@ -7,12 +7,15 @@
    <groupId>com.companyname.project-group</groupId>
    <artifactId>project</artifactId>
    <version>1.0</version>
-</project>
 
 <distributionManagement>
+
     <repository>
-         <id>101010</id>
+         <id>Release</id>
          <name>Release</name>
          <url>http://172.19.110.114:8081/nexus/content/repositories/releases/</url>
     </repository>
+
 <distributionManagement>
+
+</project>
