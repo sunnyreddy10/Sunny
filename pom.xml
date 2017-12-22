@@ -11,8 +11,8 @@
 <distributionManagement>
 
     <repository>
-         <id>Release</id>
-         <name>Release</name>
+         <id>releases</id>
+         <name>Releases</name>
          <url>http://172.19.110.114:8081/nexus/content/repositories/releases/</url>
     </repository>
 
