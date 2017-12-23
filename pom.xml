@@ -1,14 +1,14 @@
-<project xmlns="<a class="vglnk" href="http://maven.apache.org/POM/4.0.0" rel="nofollow"><span>http</span><span>://</span><span>maven</span><span>.</span><span>apache</span><span>.</span><span>org</span><span>/</span><span>POM</span><span>/</span><span>4</span><span>.</span><span>0</span><span>.</span><span>0</span></a>" 
-  xmlns:xsi="<a class="vglnk" href="http://www.w3.org/2001/XMLSchema-instance" rel="nofollow"><span>http</span><span>://</span><span>www</span><span>.</span><span>w3</span><span>.</span><span>org</span><span>/</span><span>2001</span><span>/</span><span>XMLSchema</span><span>-</span><span>instance</span></a>"
-  xsi:schemaLocation="<a class="vglnk" href="http://maven.apache.org/POM/4.0.0" rel="nofollow"><span>http</span><span>://</span><span>maven</span><span>.</span><span>apache</span><span>.</span><span>org</span><span>/</span><span>POM</span><span>/</span><span>4</span><span>.</span><span>0</span><span>.</span><span>0</span></a> 
-  <a class="vglnk" href="http://maven.apache.org/maven-v4_0_0.xsd" rel="nofollow"><span>http</span><span>://</span><span>maven</span><span>.</span><span>apache</span><span>.</span><span>org</span><span>/</span><span>maven</span><span>-</span><span>v4</span><span>_</span><span>0</span><span>_</span><span>0</span><span>.</span><span>xsd</span></a>">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+  http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pengyifan.simpleweb</groupId>
   <artifactId>simple-webapp</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>simple-webapp Maven Webapp</name>
-  <url><a class="vglnk" href="http://maven.apache.org" rel="nofollow"><span>http</span><span>://</span><span>maven</span><span>.</span><span>apache</span><span>.</span><span>org</span></a></url>
+  <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
